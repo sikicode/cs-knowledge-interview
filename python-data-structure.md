@@ -2,7 +2,7 @@
 <br> - Elements cannot be duplicated. 
 <br> - Elements are immutable, but set itself mutable
 <br> - No indexing/slicing since no index
-   ```
+   ```python
    set_example = set() 
    set_example2 = {1, 2, 3}
    # cannot duplicate no change
