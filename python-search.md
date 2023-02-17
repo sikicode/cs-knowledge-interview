@@ -13,6 +13,7 @@ def binary_search_recursive(arr, left, right, target):
             return binary_search_recursive(arr, mid+1, right, target)
     else:
         return -1
+    
 # iterative
 def binary_search_iterative(arr, target):
     left = 0
@@ -26,6 +27,5 @@ def binary_search_iterative(arr, target):
         else:
             return mid
     return -1
-    
 ```
 2. 
