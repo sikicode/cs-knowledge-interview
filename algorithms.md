@@ -5,8 +5,8 @@
 memory than iteration. Recursion makes the code smaller.</mark>
 
 2. Dynamic Programming 
-   1. Why DP performs better than recursion with memo?
-    Ans: DP does not need extra space to store computed results from recursion.
-   2. 
+   - Why DP performs better than recursion with memo?
+    <br>Ans: DP does not need extra space to store computed results from recursion.
+   Reference Leetcode 4 explanation: https://wy-ei.github.io/leetcode/dp/
 
-2. 
+3. 
