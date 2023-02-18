@@ -10,7 +10,8 @@ a[:stop]       # items from the beginning through stop-1
 a[:]           # a copy of the whole array
 a[start:stop:step] # start through not past stop, by step
 ```
-4. Sets 
+4. Check palindrome: sub == sub[::-1] Reference: leetcode 4
+5. Sets 
 <br> - Elements cannot be duplicated. 
 <br> - Elements are immutable, but set itself mutable
 <br> - No indexing/slicing since no index
@@ -21,4 +22,3 @@ a[start:stop:step] # start through not past stop, by step
    set_example.add(1)
    set_example.remove(1)
    ```
-2. 
