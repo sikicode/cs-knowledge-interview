@@ -11,10 +11,7 @@ a[:]           # a copy of the whole array
 a[start:stop:step] # start through not past stop, by step
 ```
 4. Check palindrome: sub == sub[::-1] Reference: leetcode 4
-5. Iteration vs Recursion (e.g. binary search)
-<br>Recursion solves the problem by function itself, feed the result back into function.
-<br>While Iteration use loops to repeat a set of instructions
-6. Sets 
+5. Sets 
 <br> - Elements cannot be duplicated. 
 <br> - Elements are immutable, but set itself mutable
 <br> - No indexing/slicing since no index
