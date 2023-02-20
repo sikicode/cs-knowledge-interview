@@ -12,4 +12,9 @@ range(3,20,2) - 3,5,7,9...19
 >>> Counter("mississippi")
 Counter({'i': 4, 's': 4, 'p': 2, 'm': 1})
 ```
-3. Swap variables
+3. ceil() and floor(): 
+```python
+math.ceil(n)
+math.floor(n)
+```
+4. 
