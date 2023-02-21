@@ -19,6 +19,11 @@
     s[-1] # 'f'
     s[-2] # 'k'
     ```
+- To list:
+    ```python
+    list(str) # char list
+    str.split(" ") # vocabulary list
+    ```
 5. Array Manipulation
 - 2D array initialization:
     ```
