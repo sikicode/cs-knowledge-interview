@@ -3,6 +3,8 @@
 <br>
 2. Data Operation:
 - Swap values for two variables: <br>&nbsp;&nbsp;&nbsp;&nbsp;no temp variable needed in python a, b, c = c, b, a
+- Overflow(int bound specifically): https://hackmd.io/@y56/SkDyI8efH (python int are signed int which has 32 bits 
+meaning the boundary is inclusive -2^31 to 2^31 -1)
 3. String Operation:
 - Slicing syntax:
    ```python
