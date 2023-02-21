@@ -9,4 +9,14 @@ memory than iteration. Recursion makes the code smaller.</mark>
     <br>Ans: DP does not need extra space to store computed results from recursion.
    Reference Leetcode 4: https://wy-ei.github.io/leetcode/dp/
 
-3. 
+3. Deterministic Finite Automation (DFA State Machines)
+   - Def: A state machine reads some input and changes the states based on those inputs. state machines with a finite 
+   number of states are called finite state machines. (state machine + transition)
+   - Questions: [8](https://leetcode.com/problems/string-to-integer-atoi/description/),
+                [65](https://leetcode.com/problems/valid-number/),
+                [10](https://leetcode.com/problems/regular-expression-matching/),
+                [44](https://leetcode.com/problems/wildcard-matching/),
+                [520](https://leetcode.com/problems/detect-capital/),
+                [890](https://leetcode.com/problems/find-and-replace-pattern/),
+                [1018](https://leetcode.com/problems/binary-prefix-divisible-by-5/)
+4. 
