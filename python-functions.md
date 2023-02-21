@@ -17,4 +17,15 @@ Counter({'i': 4, 's': 4, 'p': 2, 'm': 1})
 math.ceil(n)
 math.floor(n)
 ```
-4. 
+4. String Manipulation
+   - append: use "+=". e.g. str += "test string"
+   - join: turn char list into string(must be all chars)
+    ```python
+    str = "".join(['a', 'b'])
+    ```
+   - replace
+   ```python
+   txt = "I like bananas"
+   x = txt.replace("bananas", "apples")
+   ```
+5. 
