@@ -12,6 +12,8 @@ memory than iteration. Recursion makes the code smaller.</mark>
 3. Deterministic Finite Automation (DFA State Machines)
    - Def: A state machine reads some input and changes the states based on those inputs. state machines with a finite 
    number of states are called finite state machines. (state machine + transition)
+   - Sample Design: ![state machine example.png](Diagram%2Fstate%20machine%20example.png)Check initial state, 
+   accepting state and dead state
    - Questions: [8](https://leetcode.com/problems/string-to-integer-atoi/description/),
                 [65](https://leetcode.com/problems/valid-number/),
                 [10](https://leetcode.com/problems/regular-expression-matching/),
