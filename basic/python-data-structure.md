@@ -1,11 +1,11 @@
 1. Comparison
-- <mark>List is a collection which is ordered and changeable. Allows duplicate members.</mark> 
+- <b>List is a collection which is ordered and changeable. Allows duplicate members.</b> 
   https://www.w3schools.com/python/python_lists.asp
-- <mark>Tuple is a collection which is ordered and unchangeable. Allows duplicate members.</mark>
+- <b>Tuple is a collection which is ordered and unchangeable. Allows duplicate members.</b>
   https://www.w3schools.com/python/python_tuples.asp
-- <mark>Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.</mark>
+- <b>Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.</b>
   https://www.w3schools.com/python/python_sets.asp
-- <mark>Dictionary is a collection which is ordered** and changeable. No duplicate members.</mark>
+- <b>Dictionary is a collection which is ordered** and changeable. No duplicate members.</b>
   https://www.w3schools.com/python/python_dictionaries.asp
 
 2. Lists https://www.w3schools.com/python/python_lists.asp
