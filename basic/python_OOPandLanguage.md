@@ -20,10 +20,8 @@ https://www.geeksforgeeks.org/python-method-overloading/
   go into the innermost scope.
 - Overflow(int bound specifically): https://hackmd.io/@y56/SkDyI8efH (python int are signed int which has 32 bits
   meaning the boundary is inclusive -2^31 to 2^31 -1)
-  <br>
 3. Data Manipulation:
-- Swap values for two variables: <br>&nbsp;&nbsp;&nbsp;&nbsp;no temp variable needed in python a, b, c = c, b, a 
-<br>
+- Swap values for two variables: <br>&nbsp;&nbsp;&nbsp;&nbsp;no temp variable needed in python a, b, c = c, b, a
 4. String Manipulation:
     - Slicing syntax:
        ```python
@@ -50,7 +48,6 @@ https://www.geeksforgeeks.org/python-method-overloading/
         x = 345
         y = int(str(x)[::-1]) # reverse int x
         ```
-      <br>
 5. Class: Bundle function and data together
 - Modifier: 
   - Public: accessible from any class (class member default python/C++)
@@ -70,5 +67,4 @@ https://www.geeksforgeeks.org/python-method-overloading/
     base.Foo()
     }
       ```
-    <br>
 6. 
