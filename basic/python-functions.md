@@ -30,4 +30,5 @@ x = txt.replace("bananas", "apples")
 ```
 5. Handling digits input
 - pow(2, 31) for integer overflow/underflow check
-- s[n].isdigit() to check if a character is a digit [0-9], use int() to turn digit to integer to handle
+- s[n].isdigit() to check if a character is a digit [0-9], use int() to turn digit to integer to handle.
+6. break and continue: https://www.programiz.com/python-programming/break-continue
