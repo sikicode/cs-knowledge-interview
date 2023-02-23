@@ -1,5 +1,4 @@
 1. OOP General:
-<br>
 - Aliasing, Namespace & scope: https://docs.python.org/3/tutorial/classes.html
 - A method is a function that “belongs to” an object. Say, x is an instance for class MyClass. Then the call x.f() is 
 exactly equivalent to MyClass.f(x). In general, calling a method with a list of n arguments is equivalent to calling the
@@ -9,6 +8,7 @@ https://www.geeksforgeeks.org/python-method-overloading/
 - Polymorphism: https://www.geeksforgeeks.org/polymorphism-in-python/
 - Encapsulation: https://www.geeksforgeeks.org/encapsulation-in-python/
 - Abstraction: https://www.geeksforgeeks.org/abstract-classes-in-python/
+<br>
 2. Python language feature
 - Is Python call by reference or call by value?
   <br>Python utilizes a system, which is known as “Call by Object Reference” or <mark>“Call by assignment”</mark>. In 
@@ -21,11 +21,10 @@ https://www.geeksforgeeks.org/python-method-overloading/
   go into the innermost scope.
 - Overflow(int bound specifically): https://hackmd.io/@y56/SkDyI8efH (python int are signed int which has 32 bits
   meaning the boundary is inclusive -2^31 to 2^31 -1)
-  <br><br>
-- 
-  <br><br>
+  <br>
 3. Data Manipulation:
 - Swap values for two variables: <br>&nbsp;&nbsp;&nbsp;&nbsp;no temp variable needed in python a, b, c = c, b, a 
+<br>
 4. String Manipulation:
     - Slicing syntax:
        ```python
@@ -52,6 +51,7 @@ https://www.geeksforgeeks.org/python-method-overloading/
         x = 345
         y = int(str(x)[::-1]) # reverse int x
         ```
+      <br>
 5. Class: Bundle function and data together
 - Modifier: 
   - Public: accessible from any class (class member default python/C++)
@@ -71,4 +71,5 @@ https://www.geeksforgeeks.org/python-method-overloading/
     base.Foo()
     }
       ```
-- 
+    <br>
+6. 
