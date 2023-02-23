@@ -8,7 +8,6 @@ https://www.geeksforgeeks.org/python-method-overloading/
 - Polymorphism: https://www.geeksforgeeks.org/polymorphism-in-python/
 - Encapsulation: https://www.geeksforgeeks.org/encapsulation-in-python/
 - Abstraction: https://www.geeksforgeeks.org/abstract-classes-in-python/
-<br>
 2. Python language feature
 - Is Python call by reference or call by value?
   <br>Python utilizes a system, which is known as “Call by Object Reference” or <mark>“Call by assignment”</mark>. In 
