@@ -1,8 +1,8 @@
 1. Array Manipulation
-   - 2D array initialization:
-       ```
-       [[''] * numCols for _ in range(numRows)]
-       ```
+- 2D array initialization:
+    ```
+    [[''] * numCols for _ in range(numRows)]
+    ```
 2. Sets
       <br> - Elements cannot be duplicated.
       <br> - Elements are immutable, but set itself mutable
