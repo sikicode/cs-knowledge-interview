@@ -8,6 +8,9 @@ https://www.geeksforgeeks.org/python-method-overloading/
 - Polymorphism: https://www.geeksforgeeks.org/polymorphism-in-python/
 - Encapsulation: https://www.geeksforgeeks.org/encapsulation-in-python/
 - Abstraction: https://www.geeksforgeeks.org/abstract-classes-in-python/
+- Class Attributes with leading underscores in their names and why: 
+https://stackoverflow.com/questions/1301346/what-is-the-meaning-of-single-and-double-underscore-before-an-object-name
+
 2. Python language feature
 - Is Python call by reference or call by value?
   <br>Python utilizes a system, which is known as “Call by Object Reference” or <mark>“Call by assignment”</mark>. In 
