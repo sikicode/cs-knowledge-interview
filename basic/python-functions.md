@@ -28,4 +28,6 @@ math.floor(n)
    txt = "I like bananas"
    x = txt.replace("bananas", "apples")
    ```
-5. pow(2, 31) for integer overflow/underflow check
+5. Handling numbers
+- pow(2, 31) for integer overflow/underflow check
+- s[n].isdigit() to check if a character is a digit [0-9], use int() to turn digit to integer to handle
