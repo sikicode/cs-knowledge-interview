@@ -25,33 +25,39 @@ https://stackoverflow.com/questions/1301346/what-is-the-meaning-of-single-and-do
   meaning the boundary is inclusive -2^31 to 2^31 -1)
 3. Data Manipulation:
 - Swap values for two variables: <br>&nbsp;&nbsp;&nbsp;&nbsp;no temp variable needed in python a, b, c = c, b, a
-4. String Manipulation:
-    - Slicing syntax:
-       ```python
-       a[start:stop]  # items start through stop-1
-       a[start:]      # items start through the rest of the array
-       a[:stop]       # items from the beginning through stop-1
-       a[:]           # a copy of the whole array
-       a[start:stop:step] # start through not past stop, by step
-       ```
-    - Check palindrome: sub == sub[::-1] Reference: leetcode 4
-    - Take tail of string:
+  4. String Manipulation:
+      - Slicing syntax:
+         ```python
+         a[start:stop]  # items start through stop-1
+         a[start:]      # items start through the rest of the array
+         a[:stop]       # items from the beginning through stop-1
+         a[:]           # a copy of the whole array
+         a[start:stop:step] # start through not past stop, by step
+         ```
+      - Index range
         ```python
-        s = "dnewkf"
-        s[-1] # 'f'
-        s[-2] # 'k'
+        str = "12"
+        str[10:] -> ''
+        str[2:] -> ''
         ```
-    - To list:
-        ```python
-        list(str) # char list
-        str.split(" ") # vocabulary list
-        ```
-    - To str:
-        ```python
-        x = 345
-        y = int(str(x)[::-1]) # reverse int x
-        ```
-    - not "" -> True; not " " -> False
+      - not "" -> True; not " " -> False
+      - Check palindrome: sub == sub[::-1] Reference: leetcode 4
+      - Take tail of string:
+          ```python
+          s = "dnewkf"
+          s[-1] # 'f'
+          s[-2] # 'k'
+          ```
+      - To list:
+          ```python
+          list(str) # char list
+          str.split(" ") # vocabulary list
+          ```
+      - To str:
+          ```python
+          x = 345
+          y = int(str(x)[::-1]) # reverse int x
+          ```
 5. Class: Bundle function and data together
 - Modifier: 
   - Public: accessible from any class (class member default python/C++)
