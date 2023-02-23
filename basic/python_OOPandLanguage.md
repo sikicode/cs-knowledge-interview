@@ -51,6 +51,7 @@ https://stackoverflow.com/questions/1301346/what-is-the-meaning-of-single-and-do
         x = 345
         y = int(str(x)[::-1]) # reverse int x
         ```
+    - not "" -> True; not " " -> False
 5. Class: Bundle function and data together
 - Modifier: 
   - Public: accessible from any class (class member default python/C++)
