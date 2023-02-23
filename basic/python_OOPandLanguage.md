@@ -71,5 +71,6 @@ https://stackoverflow.com/questions/1301346/what-is-the-meaning-of-single-and-do
     }
       ```
 - Dataclass: https://realpython.com/python-data-classes/
-- 
+- Generator: use yield statement
+  - Yield: https://www.geeksforgeeks.org/use-yield-keyword-instead-return-keyword-python/
 6. Asterisk marks * and ** passing arguments: https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/
