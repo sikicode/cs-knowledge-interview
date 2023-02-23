@@ -18,16 +18,16 @@ math.ceil(n)
 math.floor(n)
 ```
 4. String Manipulation
-   - append: use "+=". e.g. str += "test string"
-   - join: turn char list into string(must be all chars)
-    ```python
-    str = "".join(['a', 'b'])
-    ```
-   - replace
-   ```python
-   txt = "I like bananas"
-   x = txt.replace("bananas", "apples")
-   ```
+- append: use "+=". e.g. str += "test string"
+- join: turn char list into string(must be all chars)
+```python
+str = "".join(['a', 'b'])
+```
+- replace
+```python
+txt = "I like bananas"
+x = txt.replace("bananas", "apples")
+```
 5. Handling digits input
 - pow(2, 31) for integer overflow/underflow check
 - s[n].isdigit() to check if a character is a digit [0-9], use int() to turn digit to integer to handle
