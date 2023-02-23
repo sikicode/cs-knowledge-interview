@@ -21,4 +21,5 @@ memory than iteration. Recursion makes the code smaller.</mark>
                 [520](https://leetcode.com/problems/detect-capital/),
                 [890](https://leetcode.com/problems/find-and-replace-pattern/),
                 [1018](https://leetcode.com/problems/binary-prefix-divisible-by-5/)
-4. 
+4. Reverse Number Questions (palindrome, reversing): To speed up, use log(n) to the base 10 which means to divide 10 
+and handle. Notice 32 bit boundaries to avoid overflow/underflow.
