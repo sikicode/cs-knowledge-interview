@@ -28,4 +28,4 @@ math.floor(n)
    txt = "I like bananas"
    x = txt.replace("bananas", "apples")
    ```
-5. 
+5. pow(2, 31) for integer overflow/underflow check
