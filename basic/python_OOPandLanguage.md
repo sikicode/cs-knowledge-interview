@@ -63,22 +63,8 @@ https://stackoverflow.com/questions/1301346/what-is-the-meaning-of-single-and-do
   - Public: accessible from any class (class member default python/C++)
   - Private: accessible from own class
   - Virtual: can be modified in a derived class by override modifier. (class method default python/C++)
-      ```
-    class A {
-    public virtual void Foo()
-    //DoStuff For A
-    }
-    class B : A {
-    public override void Foo()
-    //DoStuff For B
-
-    //now call the base to do the stuff for A and B 
-    //if required
-    base.Foo()
-    }
-      ```
 - Dataclass: https://realpython.com/python-data-classes/
 - Generator: Lazy iterator using yield statement, no return no memory storage: https://realpython.com/introduction-to-python-generators/
   - Yield: https://www.geeksforgeeks.org/use-yield-keyword-instead-return-keyword-python/
-- Initializer:
+- Initializer: class variable vs. instance variable (self.val)
 6. Asterisk marks * and ** passing arguments: https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/
