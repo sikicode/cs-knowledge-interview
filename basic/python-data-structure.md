@@ -9,19 +9,12 @@
   https://www.w3schools.com/python/python_dictionaries.asp
 
 2. Lists https://www.w3schools.com/python/python_lists.asp
+- List access O(1) while set access O(n)
 - 2D array initialization:
     ```
     [[''] * numCols for _ in range(numRows)]
     ```
-
 3. Sets https://www.w3schools.com/python/python_sets.asp
-      <br> - Elements cannot be duplicated.
-      <br> - Elements are immutable, but set itself mutable
-      <br> - No indexing/slicing since no index
-```python
-set_example = set() 
-set_example2 = {1, 2, 3}
-# cannot duplicate no change
-set_example.add(1)
-set_example.remove(1)
-```
+- Set access O(n) while list access O(1)
+4. Tuples: https://www.w3schools.com/python/python_tuples.asp
+5. Dictionaries: https://www.w3schools.com/python/python_dictionaries.asp
