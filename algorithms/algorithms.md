@@ -7,12 +7,12 @@ memory than iteration. Recursion makes the code smaller.</mark>
 2. Dynamic Programming 
 - Why DP performs better than recursion with memo?
  <br>Ans: DP does not need extra space to store computed results from recursion.
-Reference Leetcode 4: https://wy-ei.github.io/leetcode/dp/
+Reference [Leetcode 4](https://wy-ei.github.io/leetcode/dp/)
 
 3. Finite Automata (DFA/NFA State Machines)
 - Def: A state machine reads some input and changes the states based on those inputs. state machines with a finite 
 number of states are called finite state machines. (state machine + transition)
-- Regex Matching Syntax: https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html
+- [Regex Matching Syntax](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html)
 - Construction and more: see ./finite_automata
 - Sample Design: <br><img src="./img/state machine example.png" width="900"/> <br>Check initial state,
   accepting state and dead state
