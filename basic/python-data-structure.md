@@ -1,15 +1,12 @@
 1. Comparison
-- <b>List is a collection which is ordered and changeable. Allows duplicate members.</b> 
-  https://www.w3schools.com/python/python_lists.asp
+- <b>List is a collection which is ordered and changeable. Allows duplicate members.</b>
 - <b>Tuple is a collection which is ordered and unchangeable. Allows duplicate members.</b>
-  https://www.w3schools.com/python/python_tuples.asp
 - <b>Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.</b>
-  https://www.w3schools.com/python/python_sets.asp
 - <b>Dictionary is a collection which is ordered** and changeable. No duplicate members.</b>
-  https://www.w3schools.com/python/python_dictionaries.asp
 
 2. Lists https://www.w3schools.com/python/python_lists.asp
 - List access O(1) while set access O(n)
+- List can hold various types but array can only hold one type
 - 2D array initialization:
     ```
     [[''] * numCols for _ in range(numRows)]
