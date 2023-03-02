@@ -32,4 +32,5 @@ x = txt.replace("bananas", "apples")
 - pow(2, 31) for integer overflow/underflow check
 - s[n].isdigit() to check if a character is a digit [0-9], use int() to turn digit to integer to handle.
 6. break and continue: https://www.programiz.com/python-programming/break-continue
-7. Yield: https://www.geeksforgeeks.org/use-yield-keyword-instead-return-keyword-python/
+7. yield: https://www.geeksforgeeks.org/use-yield-keyword-instead-return-keyword-python/
+8. random.choice(): https://www.w3schools.com/python/ref_random_choice.asp
