@@ -27,4 +27,3 @@ number of states are called finite state machines. (state machine + transition)
 4. Reverse Number Questions (palindrome, reversing): To speed up, use log(n) to the base 10 which means to divide 10 
 and handle. Notice 32 bit boundaries to avoid overflow/underflow. char.isdigit() can be useful.
 
-5. 
