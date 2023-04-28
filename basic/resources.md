@@ -6,3 +6,5 @@
 3. Toolkit:
    - Python visualization: https://pythontutor.com/visualize.html#mode=edit
    - Regex tester (multiple languages): https://regex101.com/
+4. Coding Question Format:
+   1. Ask for Clarification: input size/storage/empty or invalid, negative values, duplicates, edge cases

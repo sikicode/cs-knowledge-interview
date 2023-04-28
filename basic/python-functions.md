@@ -34,3 +34,4 @@
 6. [break and continue](https://www.programiz.com/python-programming/break-continue)
 7. [yield](https://www.geeksforgeeks.org/use-yield-keyword-instead-return-keyword-python/)
 8. [random.choice()](https://www.w3schools.com/python/ref_random_choice.asp)
+9. zip(): zip elements in a tuple and return
