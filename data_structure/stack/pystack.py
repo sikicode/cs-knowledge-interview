@@ -1,5 +1,5 @@
 # resource: https://www.geeksforgeeks.org/stack-in-python/
-# stack properties: LIFO all functions O(1) ../img/pystackproperties.png
+# stack properties: LIFO all functions O(1)
 # use python list
 stack = []
 stack.append("a")

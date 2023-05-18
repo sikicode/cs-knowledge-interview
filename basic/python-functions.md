@@ -28,10 +28,17 @@
     txt = "I like bananas"
     x = txt.replace("bananas", "apples")
     ```
+- split
+    ```python
+    txt = "I have an apple"
+    lst = txt.split(" ")
+    ```
 5. Handling digits input
 - pow(2, 31) for integer overflow/underflow check
 - s[n].isdigit() to check if a character is a digit [0-9], use int() to turn digit to integer to handle.
 6. [break and continue](https://www.programiz.com/python-programming/break-continue)
 7. [yield](https://www.geeksforgeeks.org/use-yield-keyword-instead-return-keyword-python/)
-8. [random.choice()](https://www.w3schools.com/python/ref_random_choice.asp)
+8. [random.choice() O(logn)](https://www.w3schools.com/python/ref_random_choice.asp)
 9. zip(): zip elements in a tuple and return
+10. map(): map a function to iterable
+11. hash(): returns hash value of an object (if it has one)
