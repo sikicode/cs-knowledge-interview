@@ -17,8 +17,10 @@
   go into the innermost scope.
 - Overflow(int bound specifically): [explaination](https://hackmd.io/@y56/SkDyI8efH) (python int are signed int which has 32 bits
   meaning the boundary is inclusive -2^31 to 2^31 -1)
+
 3. Data Manipulation:
 - Swap values for two variables: <br>&nbsp;&nbsp;&nbsp;&nbsp;no temp variable needed in python a, b, c = c, b, a
+
 4. String Manipulation:
     - Slicing syntax:
        ```python
@@ -52,6 +54,7 @@
         x = 345
         y = int(str(x)[::-1]) # reverse int x
         ```
+
 5. Class: Bundle function and data together
 - Modifier: 
   - Public: accessible from any class (class member default python/C++)
@@ -66,5 +69,7 @@
   <br>Say, x is an instance for class MyClass. Then the call x.f() is
       exactly equivalent to MyClass.f(x). In general, calling a method with a list of n arguments is equivalent to calling the
       corresponding function with an argument list that is created by inserting the method’s instance object before the first argument.
+
 6. Asterisk marks * and ** passing arguments: [usage](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
-7. 
+
+7. Condition: if 0/None/[]/"" will break
