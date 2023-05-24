@@ -1,1 +1,0 @@
-https://www.cloudzero.com/blog/ecs-vs-ec2#:~:text=For%20example%2C%20when%20comparing%20ECS,scaling%20compute%20resources%20like%20EC2.
