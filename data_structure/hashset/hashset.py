@@ -1,4 +1,5 @@
-# resource: https://www.oreilly.com/library/view/python-cookbook/0596001673/ch05s18.html
+# O(1) insertion, delete, and lookup
+# https://wiki.python.org/moin/TimeComplexity
 class Set:
     def __init__(self, *args):
         self._dict = {}

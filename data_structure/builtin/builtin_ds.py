@@ -1,5 +1,5 @@
 # Built-in data types: list, tuple, dictionary, set
-# https://www.geeksforgeeks.org/complexity-cheat-sheet-for-python-operations/
+# Time Complexity: https://wiki.python.org/moin/TimeComplexity
 
 # list: ordered, changeable, all duplicates
 # O(1) for index and append, O(n) almost
