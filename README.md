@@ -1,5 +1,4 @@
-# Pydune
-Python Basics Revisit
+# Pydune - Python Basics Revisit
 ## Catalog
 - Overview
   - [Python OOP and Language Features](basic%2Fpython_OOPandLanguage.md)
