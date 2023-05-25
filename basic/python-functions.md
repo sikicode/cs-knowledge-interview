@@ -43,3 +43,4 @@
 10. map(): map a function to iterable
 11. hash(): returns hash value of an object (if it has one)
 12. enumerate(object, start_index<optional>) returns a enumerate object, each item is a tuple (index, value), dict will be (index, key), O(1) time
+13. sort(reverse=False, key=<mykey>): see [sorting](..%2Falgorithms%2Fsorting)

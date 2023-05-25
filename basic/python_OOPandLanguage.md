@@ -73,3 +73,4 @@
 6. Asterisk marks * and ** passing arguments: [usage](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
 
 7. Condition: if 0/None/[]/"" will break
+8. Lambda: assign function with no definition to a variable; v = lambda x: x[0], can be used in sort(key=v)
