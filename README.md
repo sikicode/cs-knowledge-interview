@@ -3,6 +3,7 @@
 - Overview
   - [Python OOP and Language Features](basic%2Fpython_OOPandLanguage.md)
   - [Python Functions](basic%2Fpython-functions.md)
+  - [Concurrency](basic%2Fconcurrency.md)
 - Data Structure
   - [Data Structure Summary](data_structure%2Fpython-data-structure.md)
   - [Builtin](data_structure%2Fbuiltin)

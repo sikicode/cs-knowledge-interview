@@ -1,5 +1,12 @@
 # O(1) time insertion, delete, and lookup: https://wiki.python.org/moin/TimeComplexity
-# Hashing
-# - Hashing is a technique to convert a range of values to a range of indexes
-# - modulo size + linear probing
-# - resource: https://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm
+# Support Concurrency:
+# - Java: ConcurrentHashMap class - https://www.geeksforgeeks.org/concurrenthashmap-in-java/
+# - Python:
+#     - https://superfastpython.com/thread-safe-dictionary-in-python/
+#     - https://stackoverflow.com/questions/6953351/thread-safety-in-pythons-dictionary
+# Auto rehashing: https://www.geeksforgeeks.org/load-factor-and-rehashing/
+# Handle Collision:
+# - Use a prime number as bucket size: https://planetmath.org/goodhashtableprimes
+# - Separate Chaining: https://www.geeksforgeeks.org/separate-chaining-collision-handling-technique-in-hashing/
+# - Open Addressing (linear/quadratic probing and double hashing): https://www.geeksforgeeks.org/open-addressing-collision-handling-technique-in-hashing/
+

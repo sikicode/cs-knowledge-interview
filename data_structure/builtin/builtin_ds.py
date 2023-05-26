@@ -2,7 +2,7 @@
 # Time Complexity: https://wiki.python.org/moin/TimeComplexity
 
 # list: ordered, changeable, all duplicates
-# O(1) for index and append, O(n) almost
+# O(1) for index and append, append doesn't create new list
 a = []
 a1 = [0] * 26
 a2 = [1,2,33,4]
