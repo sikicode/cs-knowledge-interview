@@ -45,3 +45,4 @@
 12. enumerate(object, start_index<optional>) returns a enumerate object, each item is a tuple (index, value), dict will be (index, key), O(1) time
 13. sort(reverse=False, key=<mykey>): see [sorting](..%2Falgorithms%2Fsorting)
 14. type() returns the class of an object
+15. Ternary conditional operator: c if a else b
