@@ -46,3 +46,4 @@
 13. sort(reverse=False, key=<mykey>): see [sorting](..%2Falgorithms%2Fsorting)
 14. type() returns the class of an object
 15. Ternary conditional operator: c if a else b
+16. isalnum() checks if a character is alphanumeric
