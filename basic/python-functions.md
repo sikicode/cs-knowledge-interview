@@ -33,6 +33,12 @@
     txt = "I have an apple"
     lst = txt.split(" ")
     ```
+- strip
+    ```python
+    txt = ",,,,,rrttgg.....banana....rrr"
+    x = txt.strip(",.grt")
+    print(x)    # print "banana"
+    ```
 5. Handling digits input
 - pow(2, 31) for integer overflow/underflow check
 - s[n].isdigit() to check if a character is a digit [0-9], use int() to turn digit to integer to handle.
