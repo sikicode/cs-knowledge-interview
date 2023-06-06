@@ -59,3 +59,4 @@
 14. type() returns the class of an object
 15. Ternary conditional operator: c if a else b
 16. isalnum() checks if a character is alphanumeric
+17. \* operator: [Explanation](https://www.geeksforgeeks.org/python-star-or-asterisk-operator/)
