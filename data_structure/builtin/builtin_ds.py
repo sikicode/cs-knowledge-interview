@@ -58,3 +58,5 @@ print(t[1])         # 0 indexed
 print(t[-1])        # last item, can also use slicing
 t1 = t * 2          # duplicates each item in t
 t3 = t + t1         # can add like list
+
+# n-gram generator: http://www.locallyoptimal.com/blog/2013/01/20/elegant-n-gram-generation-in-python/
