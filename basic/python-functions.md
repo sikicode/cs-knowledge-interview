@@ -60,3 +60,4 @@
 15. Ternary conditional operator: c if a else b
 16. isalnum() checks if a character is alphanumeric
 17. \* operator: [Explanation](https://www.geeksforgeeks.org/python-star-or-asterisk-operator/)
+18. [bisect](https://docs.python.org/3/library/bisect.html): select a partition point in list
