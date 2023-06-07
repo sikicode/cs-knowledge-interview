@@ -62,3 +62,4 @@
 17. \* operator: [Explanation](https://www.geeksforgeeks.org/python-star-or-asterisk-operator/)
 18. [bisect](https://docs.python.org/3/library/bisect.html): select a partition point in list
 19. [divmod](https://www.programiz.com/python-programming/methods/built-in/divmod)
+20. [defaultdict](https://stackoverflow.com/questions/5900578/collections-defaultdict-difference-with-normal-dict): defaultdict(int) is the same as Counter
