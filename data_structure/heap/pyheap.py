@@ -5,3 +5,4 @@ from collections import heapq
 heap = heapq.heapify([])
 heapq.heappush(heap, 1)
 heapq.heappop(heap)
+# heapq.nlargest(k, <iterable>)
