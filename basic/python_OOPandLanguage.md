@@ -74,3 +74,4 @@
 
 7. Condition: if 0/None/[]/"" will break
 8. Lambda: assign function with no definition to a variable; v = lambda x: x[0], can be used in sort(key=v)
+9. Max int value: [(1<<31) - 1](https://stackoverflow.com/questions/39206842/how-does-1-left-shift-by-31-1-31-work-to-get-maximum-int-value-here-are-my); also check [mod 10^9+7](https://www.geeksforgeeks.org/modulo-1097-1000000007/)
